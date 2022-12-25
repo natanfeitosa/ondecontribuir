@@ -8,4 +8,6 @@
 
 Projeto para ajudar a divulgar outros projetos open source
 
+> Para ter seu projeto postado no site, abra uma issue [aqui](https://github.com/natanfeitosa/ondecontribuir/issues/new?assignees=&labels=ondecontribuir&template=adicionar-projeto.md&title=Adicionar%20[nome%20do%20projeto])
+
 ![Foto de tela](./public/img/screenshot.png)
