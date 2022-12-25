@@ -1,8 +1,7 @@
 <script setup lang="ts">
   import { ref } from 'vue'
   import Header from './components/Header.vue'
-  import Footer from './components/Footer.vue'
-  import SearchRepos from './components/SearchRepos.vue'
+  import Footer from'./components/Footer.vue'
   import ListProjects from './components/ListProjects.vue'
   import ContribuirCard from './components/ContribuirCard.vue'
   import { useEventListener } from './composables/useEventListener'
