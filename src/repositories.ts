@@ -65,7 +65,7 @@ async function getRepositories(): Promise<IRepo[] | void> {
         // avatar: project.owner.avatar_url,
         username: project.owner.login,
       },
-      // image?: string,
+      logo: issue.logo,
       language: project.language,
     })
   }
