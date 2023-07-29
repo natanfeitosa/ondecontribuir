@@ -12,7 +12,7 @@
     rel="noopener"
   >
     <div class="mx-auto mb-3 p-1 w-[74px] h-[74px] rounded-full">
-      <img :src="project.image ?? '/img/github-mark.svg'" class="max-w-full max-h-full text-slate-800 rounded-[inherit]" alt="Capa do projeto">
+      <img :src="project.logo ?? '/img/github-mark.svg'" class="max-w-full max-h-full text-slate-800 rounded-[inherit]" alt="Capa do projeto">
     </div>
     <div class="text-center">
       <h2 class="text-2xl font-bold text-slate-800 opacity-90 leading-4">
