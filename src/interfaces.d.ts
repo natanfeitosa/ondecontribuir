@@ -11,7 +11,7 @@ export interface IBase {
     // avatar: string,
     username: string,
   },
-  image?: string,
+  logo?: string,
   language?: string,
 }
 
